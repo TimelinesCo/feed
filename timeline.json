@@ -1,5 +1,5 @@
 {
-  "heading": "COVID-19",
+  "heading": "CORONA (COVID-19)",
   "posts": [
     {
       "id": 1,
@@ -161,6 +161,20 @@
       "heading": "Loss of smell, taste are now key symptoms to identify Covid-19 patients: Health Ministry",
       "content": "The Centre has added two new symptoms of the infectious Covid-19 disease, for the reference of medical professionals to help in detecting Covid-19 positive patients. Loss of smell (anosmia) and loss of taste (ageusia) have been added to the list of coronavirus symptoms by the Union Health Ministry.",
       "link": "https://www.hindustantimes.com/india-news/loss-of-smell-taste-are-now-key-symptoms-to-identify-covid-19-patients-health-ministry/story-8Mo5vphGzqKbx5XeSkNHaP.html"
+    },
+    {
+      "id": 25,
+      "date": "14 Jun 2020",
+      "heading": "Testing Ramped up in Delhi",
+      "content": "To contain COVID-19 in Delhi, testing to increase two-fold in the next two days and will be further increased three times after six days. Also after a few days, testing will start at every polling station in containment zones - Amit Shah",
+      "link": "https://www.thehindu.com/news/cities/Delhi/shah-holds-meeting-with-delhi-lg-cm-on-covid-19-situation/article31825387.ece"
+    },
+    {
+      "id": 27,
+      "date": "15 Jun 2020",
+      "heading": "Intense Lockdown In Chennai, From 19th June",
+      "content": "Unable to control the spiraling coronavirus figures, the Tamil Nadu government has again declared total lockdown in state capital Chennai and certain areas under it, including areas in Thiruvallur, Kancheepuram and Chengalpattu districts, from June 19 to 30.",
+      "link": "https://www.ndtv.com/india-news/coronavirus-intense-lockdown-in-chennai-adjoining-areas-from-june-19-30-full-restrictions-on-two-sundays-2246627"
     }
   ]
 }
