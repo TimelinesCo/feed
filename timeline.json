@@ -1,5 +1,5 @@
 {
-  "heading": "CORONA (COVID-19)",
+  "heading": "COVID-19",
   "posts": [
     {
       "id": 1,
@@ -175,6 +175,13 @@
       "heading": "Intense Lockdown In Chennai, From 19th June",
       "content": "Unable to control the spiraling coronavirus figures, the Tamil Nadu government has again declared total lockdown in state capital Chennai and certain areas under it, including areas in Thiruvallur, Kancheepuram and Chengalpattu districts, from June 19 to 30.",
       "link": "https://www.ndtv.com/india-news/coronavirus-intense-lockdown-in-chennai-adjoining-areas-from-june-19-30-full-restrictions-on-two-sundays-2246627"
+    },
+    {
+      "id": 28,
+      "date": "16 Jun 2020",
+      "heading": "Dexamethasone Trial",
+      "content": "A cheap and widely available drug can help save the lives of patients seriously ill with coronavirus.",
+      "link": "https://www.bbc.com/news/health-53061281"
     }
   ]
 }
