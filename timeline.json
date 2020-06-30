@@ -93,6 +93,20 @@
       "link": "https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf"
     },
     {
+      "id": 42,
+      "date": "17 Feb 2020",
+      "heading": "Japan cruise ship's US passengers home for further quarantine",
+      "content": "Two planes carrying hundreds of US citizens from a coronavirus-hit cruise ship in Japan have arrived in the US.One plane landed at a US Air Force base in California and the other in Texas. Passengers will be isolated at military facilities for 14 days.There were about 400 Americans on board the Diamond Princess. The ship, with some 3,700 passengers and crew, has been in quarantine since 3 February.",
+      "link": "https://www.bbc.com/news/world-asia-china-51524460"
+    },
+    {
+      "id": 43,
+      "date": "27 Feb 2020",
+      "heading": "Secretive church at centre of South Korea's explosive coronavirus outbreak",
+      "content": "An So-young had a gut feeling that the 31st person in South Korea to test positive for the coronavirus might be a member of the controversial religious sect she quit four years ago.",
+      "link": "https://in.reuters.com/article/china-health-southkorea-church/secretive-church-at-centre-of-south-koreas-explosive-coronavirus-outbreak-idINKCN20L0QI"
+    },
+    {
       "id": 13,
       "date": "11 Mar 2020",
       "heading": "Pandemic",
@@ -114,6 +128,12 @@
       "link": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov/solidarity-clinical-trial-for-covid-19-treatments"
     },
     {
+      "id": 45,
+      "date": "24 Mar 2020",
+      "heading": "Never before had the Olympic Games been postponed or canceled for something other than war, but rarely has the world come to a grinding halt the way it has over the novel coronavirus.",
+      "link": "https://www.espn.in/olympics/story/_/id/28946033/tokyo-olympics-officially-postponed-2021"
+    },
+    {
       "id": 23,
       "date": "27 Mar 2020",
       "heading": "Italy Corona update",
@@ -121,11 +141,39 @@
       "link": "https://www.businessinsider.in/science/news/italy-again-reported-the-highest-single-day-death-toll-since-the-coronavirus-outbreak-began-919-deaths-its-cases-have-surpassed-chinas-/articleshow/74853886.cms"
     },
     {
+      "id": 46,
+      "date": "12 April 2020",
+      "heading": "Boris Johnson says 'it could have gone either way'",
+      "content": "Prime Minister Boris Johnson has said it -could have gone either way as he thanked healthcare workers for saving his life after being discharged from hospital.",
+      "link": "https://www.bbc.com/news/uk-politics-52262012"
+    },
+    {
       "id": 19,
       "date": "17 May 2020",
       "heading": "Vaccine Progress, Israel",
       "content": "Israeli lab completes successful coronavirus vaccine tests on rodents – report",
       "link": "https://www.timesofisrael.com/israeli-lab-completes-successful-coronavirus-vaccine-tests-on-rodents-report/"
+    },
+    {
+      "id": 47,
+      "date": "17 May 2020",
+      "heading": "Japan And Germany Sinking Into Recession",
+      "content": "The world’s third and fourth largest economies announced over the weekend that they are officially in recession—defined as two successive quarters of negative growth. Japan, the third largest, announced a 3.4 percent decrease for the first quarter of 2020, which is on the heels of a 7.3 percent decline in the final quarter of 2019. Germany revised 2019 Q4 to -0.1 percent and a further decline of 2.2 percent. Both countries expect the second quarter of 2020 to be far worse, although they are hardly alone as every nation is expecting the COVID-19 pandemic to wreak havoc on its economy.",
+      "link": "https://www.asisonline.org/security-management-magazine/latest-news/today-in-security/2020/may/japan-germany-sinking-into-recession/"
+    },
+    {
+      "id": 44,
+      "date": "23 May 2020",
+      "heading": "China reports no new coronavirus cases for first time since pandemic began",
+      "content": "China recorded no new confirmed COVID-19 cases on the mainland for May 22, the first time it had seen no daily rise in the number of cases since the pandemic began in the central city of Wuhan late last year.",
+      "link": "https://in.reuters.com/article/us-health-coronavirus-china/china-reports-no-new-coronavirus-cases-for-first-time-since-pandemic-began-idINKBN22Z047"
+    },
+    {
+      "id": 48,
+      "date": "29 May 2020",
+      "heading": "Trump: U.S. will terminate relationship with the World Health Organization in wake of Covid-19 pandemic",
+      "content": "President Trump said Friday the U.S. would halt its funding of the World Health Organization and pull out of the agency, accusing it of protecting China as the coronavirus pandemic took off. The move has alarmed health experts, who say the decision will undermine efforts to improve the health of people around the world",
+      "link": "https://www.statnews.com/2020/05/29/trump-us-terminate-who-relationship/"
     },
     {
       "id": 17,
@@ -259,6 +307,20 @@
       "heading": "CBSE,ICSE Board Exam Cancelled",
       "content": "The Central Board of Secondary Education (CBSE) on Thursday informed the Supreme Court that it will not conduct the class 10th examination while the students of Class 12th will be given an option of appearing in exams after conditions are conducive. The Class 12 students will get the option to appear in examinations or take assessment on the basis of their performance in past three exams.",
       "link": "https://www.hindustantimes.com/education/cbse-10th-12th-exam-2020-live-updates-cbse-to-inform-its-decision-on-pending-board-exams-to-sc-today/story-O5puP3bcyQ7kdbPceZ2EXN.html"
+    },
+    {
+      "id": 41,
+      "date": "29 Jun 2020",
+      "heading": "Oxford vaccine most advanced, says WHO",
+      "content": "Coronavirus (Covid-19) Vaccine Latest Update: The World Health Organisation has identified the Covid-19 vaccine candidates developed by Oxford University-AstraZeneca and Moderna Inc as the front-runners",
+      "link": "https://indianexpress.com/article/coronavirus/coronavirus-covid-19-vaccine-latest-updates-oxford-astrazeneca-moderna-sanofi-6480235/"
+    },
+    {
+      "id": 40,
+      "date": "30 Jun 2020",
+      "heading": "Covaxin: India to hold human trial of coronavirus vaccine in July",
+      "content": "India's drug control authorities have allowed Bharat Biotech to hold Phase 1 and 2 of clinical human trials after company submitted results generated from preclinical studies, demonstrating safety and immune response, a statement issued by the firm added.",
+      "link": "https://www.bbc.com/news/world-asia-india-53230607"
     }
   ]
 }
