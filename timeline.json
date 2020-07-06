@@ -321,6 +321,69 @@
       "heading": "Covaxin: India to hold human trial of coronavirus vaccine in July",
       "content": "India's drug control authorities have allowed Bharat Biotech to hold Phase 1 and 2 of clinical human trials after company submitted results generated from preclinical studies, demonstrating safety and immune response, a statement issued by the firm added.",
       "link": "https://www.bbc.com/news/world-asia-india-53230607"
+    },
+    {
+      "id": 49,
+      "date": "1 July 2020",
+      "heading": "US buys nearly all of Gilead's Covid-19 drug remdesivir",
+      "content": "The US health department announced on Tuesday it had agreed to buy 500,000 doses for use in American hospitals.Tests suggest remdesivir cuts recovery times, though it is not yet clear if it improves survival rates.Gilead did sign a licensing deal in May for production outside the US but it is still in its early stages.",
+      "link": "https://www.bbc.com/news/world-us-canada-53254487?at_campaign=64&at_custom3=BBC+News&at_custom2=facebook_page&at_medium=custom7&at_custom4=640FDD9C-BBBF-11EA-8D9B-7D9DFCA12A29&at_custom1=%5Bpost+type%5D&fbclid=IwAR3Ju2Wsw18Kb48RX-u4dfFtLjYk7hvcFxBP5K8Ktx-kTvHM30ypNMW2xxk"
+    },
+    {
+      "id": 50,
+      "date": "3 July 2020",
+      "heading": "Delhi banks on plasma to beat Covid-19",
+      "content": "Chief minister Arvind Kejriwal opened on Thursday the country’s first plasma bank at the Institute of Liver and Biliary Sciences (ILBS) in south Delhi’s Vasant Kunj. The bank has been set up to pool in plasma from people who recovered from Covid-19 so that moderately ill patients can have better access to therapy using it.",
+      "link": "https://www.hindustantimes.com/india-news/delhi-gets-country-s-first-plasma-bank-at-ilbs-to-aid-covid-fight/story-je0VOMXLNtYnLIjH3clubN.html"
+    },
+    {
+      "id": 51,
+      "date": "3 July 2020",
+      "heading": "US reports world's biggest daily increase in cases with 55,000",
+      "content": "The US reported a daily global record of more than 55,000 new coronavirus cases on Thursday as infections rose in the vast majority of states and America’s top public health expert spoke of a “very disturbing week”.",
+      "link": "https://www.theguardian.com/world/2020/jul/03/coronavirus-us-daily-case-increase-fauci-trump"
+    },
+    {
+      "id": 52,
+      "date": "4 July 2020",
+      "heading": "Almost a third of COVID-19 samples show mutation, but not worse disease, says WHO",
+      "content": "Almost 30% of genome sequencing data from samples of the COVID-19 virus collected by the World Health Organization (WHO) have shown signs of mutation, but there is no evidence this has led to more severe disease, a top WHO official said on Friday.",
+      "link": "thehindu.com/news/international/almost-a-third-of-covid-19-samples-show-mutation-but-not-worse-disease-says-who/article31985658.ece"
+    },
+    {
+      "id": 53,
+      "date": "4 July 2020",
+      "heading": "WHO team to visit China next week to investigate origins of coronavirus",
+      "content": "Amid global concerns that China delayed giving information regarding the novel coronavirus outbreak, a team of WHO (World Health Organisation) will visit the country next week to investigate the origins of the virus and its spread to human beings.",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/who-team-to-visit-china-next-week-to-investigate-origins-of-coronavirus/articleshow/76783360.cms?utm_source=whatsapp_pwa&utm_medium=social&utm_campaign=socialsharebuttons&from=mdr"
+    },
+    {
+      "id": 54,
+      "date": "5 July 2020",
+      "heading": "WHO halts trial of 2 drugs to treat hospitalised coronavirus patients",
+      "content": "The World Health Organization (WHO) announced on Saturday that it was discontinuing trial of hydroxychloroquine and lopinavir/ritonavir drugs for treating Covid-19, citing little or no reduction in the mortality of hospitalised patients.",
+      "link": "https://www.business-standard.com/article/current-affairs/who-halts-trial-of-2-drugs-to-treat-hospitalised-coronavirus-patients-120070500059_1.html"
+    },
+    {
+      "id": 55,
+      "date": "5 July 2020",
+      "heading": "COVID-19 vaccine: Completion of trials could take at least 6 to 9 months, says Soumya Swaminathan",
+      "content": "It is encouraging to see that at least seven Indian companies are developing COVID-19 vaccines. All of them must be tested ... and till we see results from these trials, we cannot predict which of them will be successful, says the Chief Scientist at WHO.",
+      "link": "https://www.thehindu.com/sci-tech/covid-19-vaccine-completion-of-trials-could-take-at-least-6-to-9-months-says-soumya-swaminathan/article31993079.ece"
+    },
+    {
+      "id": 56,
+      "date": "5 July 2020",
+      "heading": "239 experts with 1 big claim: The coronavirus is airborne",
+      "content": "The coronavirus is finding new victims worldwide, in bars and restaurants, offices, markets and casinos, giving rise to frightening clusters of infection that increasingly confirm what many scientists have been saying for months: The virus lingers in the air indoors, infecting those nearby.",
+      "link": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/239-experts-with-1-big-claim-the-coronavirus-is-airborne/articleshow/76795864.cms?utm_source=whatsapp_pwa&utm_medium=social&utm_campaign=socialsharebuttons&from=mdr"
+    },
+    {
+      "id": 57,
+      "date": "6 July 2020",
+      "heading": "Australia closes state border for first time in 100 years to contain coronavirus spread",
+      "content": "The decision to close state borders for an indefinite period marks the first time the border with neighbouring New South Wales has been shut in 100 years - officials last blocked movement between the two states in 1919 during the Spanish flu pandemic.",
+      "link": "https://www.indiatoday.in/world/story/australia-closes-state-border-first-time-years-contain-coronavirus-spread-1697427-2020-07-06"
     }
   ]
 }
